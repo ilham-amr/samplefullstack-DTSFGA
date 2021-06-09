@@ -58,9 +58,11 @@ header{
   color: white;
 }
 
+/* Menyesuaikan posisi menu*/
 .menu{
   float: right;
   margin-right: 40px;
+  padding: 15px 15px;
   text-align: center;
 }
 
