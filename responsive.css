@@ -1,0 +1,23 @@
+/* Llayout tablet */
+@media (max-width: 1000px) {
+    .product{
+        width: 40%;
+        padding: 20px 10px;
+      }
+  }
+  
+  /* Layout Smartphone */
+  @media (max-width: 670px) {
+    /*header*/
+    .icon{
+        display: block;
+    }
+    .menu ul{
+        display: none;
+    }
+
+    .product{
+        width: 100%;
+        padding: 20px 10px;
+      }
+  }
